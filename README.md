@@ -78,3 +78,39 @@ print("4-Consulta")
 
 
 
+
+
+
+
+#EXERCÍCIO 8#
+nome1 = "Maria"
+nome2 = "José"
+nome3 = "Pedro"
+nome4 = "Roberta"
+nome5 = "Ana"
+
+print("Qual é o seu nome?")
+input()
+print()
+print(nome1)
+print(nome2)
+print(nome3)
+print(nome4)
+print(nome5)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
