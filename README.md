@@ -62,6 +62,19 @@ print("4-Consulta")
 
 #EXERCÍCIO 7#
 
+print()
+print('☆'.center(40))
+print('☆XXX☆' .center(40))
+print('☆XXXXX☆' .center(40))
+print('☆XXXXXXXX☆' .center(40))
+print('☆XXXXXXXXXXXX☆' .center(40))
+print('☆XXXXXXXXXXXXXX☆' .center(40))
+print('☆XXXXXXXXXXXXXXXX☆' .center(40))
+print('☆XXXXXXXXXXXXXXXXXX☆' .center(40))
+for r in range(2):
+    print(('||').center(40))
+print('\====/'.center(40))
+print("By Ana e Nathália")
 
 
 
