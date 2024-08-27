@@ -62,18 +62,7 @@ print("4-Consulta")
 
 #EXERCÍCIO 7#
 
-print()
-print(" X")
-print("XXX")
-print("XXXXX"
-    XXXXXXX
-   XXXXXXXXX
-  XXXXXXXXXXX
- XXXXXXXXXXXXX
-XXXXXXXXXXXXXXX
-       XX
-       XX
-      XXXX
+
 
 
 
